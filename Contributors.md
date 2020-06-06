@@ -20844,4 +20844,4 @@ rehan
 - [Kara Yount](https://github.com/karayount)
 - [Alex Dolgov](https://github.com/DolgOverflow)
 - [Douglas Okolaa](https://github.com/Douglasokolaa)
-- [Soroye Sodiq] (https://github.com/Soroyesodiq)
+- [Soroye Sodiq Oladipupo] (https://github.com/Soroyesodiq)
