@@ -20842,6 +20842,6 @@ rehan
 - [Arno Kemner](https://github.com/arnosk)
 - [VisualDevelopment](https://github.com/VisualDevelopment)
 - [Kara Yount](https://github.com/karayount)
-- [Alex Dolgov](https://github.com/DolgOverflow)
-- [Douglas Okolaa](https://github.com/Douglasokolaa)
+- [Alex Dolgov](https://github.com/DolgOverflow) 
+- [Douglas Okolaa](https://github.com/Douglasokolaa) [Douglas Okolaa](https://github.com/Douglasokolaa)
 - [Soroye Sodiq Oladipupo] (https://github.com/Soroyesodiq)
